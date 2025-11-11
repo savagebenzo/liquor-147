@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+# Liquor 147 🍷
+
+**Happiness in a Bottle**
+
+A premium e-commerce website for Liquor 147, showcasing an extensive collection of alcoholic beverages including wines, whiskeys, champagnes, vodkas, and more.
+
+## Features
+
+- 🍾 Premium Product Showcase - Browse our curated selection of fine spirits
+- 💳 Retail & Wholesale Options - Shop individually or buy in bulk
+- 🌍 International Selection - Beverages from around the world
+- 📦 Gift Services - Personalized gift wrapping and delivery
+- 🎉 Event Planning - Professional beverage recommendations for events
+- 📱 Responsive Design - Works seamlessly on desktop and mobile devices
+- 💱 Multi-Currency Support - Prices in Nigerian Naira and USD
+
 # Liquor 147 🍷
 
 **Happiness in a Bottle**
